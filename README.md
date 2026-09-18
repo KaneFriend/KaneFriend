@@ -24,6 +24,7 @@ I secure cloud environments, build detection systems, ensure compliance, and pro
 ---
 
 ### current focus 
+-  Currently focused on: Cloud Security Engineering — IaC security (Terraform), container hardening, and CI/CD pipeline security (AWS/Azure).
 - translating production experience with Splunk to open-source SIEMS.
 - Building detection rules for Linux and Windows attacks.
 - Automating incident response playbooks.
